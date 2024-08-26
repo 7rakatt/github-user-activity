@@ -1,0 +1,21 @@
+{
+  "name": "@7rakat/github-user-activity",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "nodemon dist/index.js"
+  },
+  "bin": "./dist/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0"
+  }
+}
