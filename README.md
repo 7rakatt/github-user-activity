@@ -6,7 +6,7 @@ Sample solution for the [github-user-activity](https://roadmap.sh/projects/githu
 download the package from npm
 
 ```bash
-npm i @7rakat/github-user-activity
+npm install -g @7rakat/github-user-activity
 ```
 
 Run the following command to list the activities of a user:
